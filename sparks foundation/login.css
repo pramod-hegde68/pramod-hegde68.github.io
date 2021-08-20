@@ -1,0 +1,149 @@
+
+        h4{
+          background-color: #5cb85c;
+          color:white;
+        
+          font-size: 20px;
+          padding: 10px;
+          width: 30%;
+          margin-left: 13cm;
+        }
+        .footer {
+          background-color: #f9f9f9;
+          text-align: center;
+        }
+        .body{
+            text-align: center;
+        }
+        .form-group{
+            padding: 10px;
+            width: 30%;
+            text-align: left;
+            margin-left: 12cm;
+
+        }
+        
+         header{
+                width:100%;
+                margin-top:auto;
+                overflow: hidden;
+                background-color:gold;
+                
+            }
+        .head{
+                float: left;
+                color: black;
+                margin-left: 1cm;
+                margin-top: 3mm;
+                font-family: cursive;
+            }
+        header nav{
+                float: right;
+                margin-top: 0.5cm;
+                margin-bottom: 0.25cm;
+            }
+        header li{
+                display: inline;
+                padding: 1rem; 
+            }
+           
+       header  li:hover{
+                background-color:rgb(117, 117, 111);;
+             }
+       header li a{
+                color:whitesmoke;
+                text-decoration: none;
+                font-weight: bold;
+                
+            }
+       
+
+        .active{
+                color:red;
+                font-size: 22px;
+            }
+        .active:hover{
+                color: red;
+            }
+          
+        .category img{
+                width: 200px;
+                height: 200px;
+            }
+        .category{
+                color:black;
+                margin-top: 1%;
+                font-family: cursive;
+                display: flex;
+                margin-left: 100px;
+                text-align: center;
+            }
+        .container{
+                
+                width:90%;
+                margin:auto;
+                margin-top: 1%;
+                overflow: hidden;
+            }
+
+        
+
+        .policy{
+                float:left;
+                padding-right: 60px;
+                }
+
+        
+
+        .policy h2{
+                color: gold;
+                
+                margin-top: 1cm;
+                font-family: cursive;
+            }
+
+        .policy address{
+                color: rgb(240, 240, 233);
+                
+            }
+
+            .join{ 
+                float: left;
+                margin-left: 14cm;
+                margin-right: 2cm;
+                padding-left: 60px;
+              
+             }
+
+        .join a{
+            text-decoration:none;
+            color: rgb(240, 240, 233);
+            }
+
+        .join p{
+                color:rgb(240, 240, 233) ;
+                margin-top: 1cm;
+            }
+
+        .join a:hover{
+                color: gold;
+            }
+            
+        footer{
+                width:100%;
+                margin-top: 10mm;
+                overflow: hidden;
+                background-color:gray;
+                margin-bottom: 0px;
+            }
+            .logo{
+          margin-left:2cm;
+          margin-right: 1cm;
+          margin-top:45px; 
+          float: left;
+        }
+        .logo img{
+          border-radius: 30%;
+          background-color: blanchedalmond;
+        }
+    

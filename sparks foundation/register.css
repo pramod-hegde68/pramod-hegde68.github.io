@@ -1,0 +1,103 @@
+
+header{
+       width:100%;
+       margin-top:auto;
+       overflow: hidden;
+       background-color:gold;
+       
+   }
+
+.head{
+       float: left;
+       color: black;
+       margin-left: 1cm;
+       margin-top: 3mm;
+       font-family: cursive;
+   }
+header nav{
+       float: right;
+       margin-top: 0.5cm;
+       margin-bottom: 0.25cm;
+   }
+header li{
+       display: inline;
+       padding: 1rem; 
+   }
+  
+header li:hover{
+       background-color:rgb(117, 117, 111);
+       text-decoration: none;
+    }
+header li a{
+       color:whitesmoke;
+       text-decoration: none;
+       font-weight: bold;
+       
+   }
+.active{
+       color:red;
+       font-size: 22px;
+   }
+.active:hover{
+       color: red;
+   }
+ form{
+     width: 30%;
+     margin-left: 13cm;
+     }
+     
+
+   .policy h2{
+           color: gold;
+         
+           margin-top: 1cm;
+           font-family: cursive;
+       }
+       .policy address{
+           color: rgb(240, 240, 233);
+           
+       }
+       .join{ 
+       float: left;
+       margin-left: 14cm;
+       margin-right: 2cm;
+       padding-left: 60px;
+     
+    }
+
+    .join a{
+       text-decoration:none;
+       color: rgb(240, 240, 233);
+        }
+
+   .join p{
+            color:rgb(240, 240, 233) ;
+            margin-top: 1cm;
+        }
+
+   .join a:hover{
+            color: gold;
+        }
+        
+   footer{
+           width:100%;
+           margin-top: 10mm;
+           overflow: hidden;
+           background-color:gray;
+        }
+        .policy{
+           float:left;
+           padding-right: 60px;
+           
+       }
+       .logo{
+ margin-left:2cm;
+ margin-right: 1cm;
+ margin-top:45px; 
+ float: left;
+}
+.logo img{
+ border-radius: 30%;
+ background-color: blanchedalmond;
+}
+     
